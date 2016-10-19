@@ -42,12 +42,9 @@ Physical computing takes “the human body and its capabilities as the starting 
 
 + A popular point of inquiry for critical making and process-oriented prototyping
 
-![Physical computing feedback loop](https://en.wikipedia.org/wiki/File:Physical_computing.svg)
+![Physical computing feedback loop](https://github.com/mckinniburgh/QuickStartPhysComp/blob/master/images/Physical_computing.svg.png)
 
-
-![physical computing feedback loop](https://github.com/mckinniburgh/QuickStartPhysComp/blob/master/images/interactiveDevice.png)
-
-"The Interactive Device," from Getting Started with Arduino by Massimo Banzi. Borrowed from Tiffany Chan's fabulous Arduino Tutorial
+*image made by Nevit Dilmen for the physical computing [Wikipedia](https://en.wikipedia.org/wiki/File:Physical_computing.svg) page*
 
 ##More Speedy Vocabulary*
 *_or how to get started really quickly with some critical making!_
