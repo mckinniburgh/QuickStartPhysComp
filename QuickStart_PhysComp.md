@@ -9,14 +9,15 @@ by Mary Catherine Kinniburgh
 
 
 #Overview
-1. [Why Make?](#whymake)
+1. [Why Make?](https://github.com/mckinniburgh/QuickStartPhysComp/blob/master/QuickStart_PhysComp.md#why-make)
 
-   +[Key Term: Maker Space](#keyterm)
+   +[Key Term: Maker Space](https://github.com/mckinniburgh/QuickStartPhysComp/blob/master/QuickStart_PhysComp.md#key-term-maker-space)
    
-   +[Key Term: Physical Computing](#keyterm)
-2. [Speedy Vocabulary](#speedyvocabulary)
-3. [Setting up Arduino](#settinguparduino)
-4. [Activity: Arduino LED](##Activity)
+   +[Key Term: Physical Computing](https://github.com/mckinniburgh/QuickStartPhysComp/blob/master/QuickStart_PhysComp.md#key-term-physical-computing)
+   
+2. [Speedy Vocabulary](https://github.com/mckinniburgh/QuickStartPhysComp/blob/master/QuickStart_PhysComp.md#speedy-vocabulary)
+3. [Setting up Arduino](https://github.com/mckinniburgh/QuickStartPhysComp/blob/master/QuickStart_PhysComp.md#setting-up-arduino)
+4. [Activity: Arduino LED](https://github.com/mckinniburgh/QuickStartPhysComp/blob/master/QuickStart_PhysComp.md#activity-arduino-led)
 
 ##Why Make?
 
