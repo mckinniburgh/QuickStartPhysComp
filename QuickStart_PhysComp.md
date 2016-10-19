@@ -42,6 +42,9 @@ Physical computing takes “the human body and its capabilities as the starting 
 
 + A popular point of inquiry for critical making and process-oriented prototyping
 
+![Physical computing feedback loop](https://en.wikipedia.org/wiki/File:Physical_computing.svg)
+
+
 ![physical computing feedback loop](https://github.com/mckinniburgh/QuickStartPhysComp/blob/master/images/interactiveDevice.png)
 
 "The Interactive Device," from Getting Started with Arduino by Massimo Banzi. Borrowed from Tiffany Chan's fabulous Arduino Tutorial
@@ -102,13 +105,13 @@ Now you're ready to make circuits!
 + Breadboard
 + Resistor
 
-**The Circuit**
+##**The Circuit**
 
 Don't forget to unplug your Arduino as you wire your circuit! This keeps your computer safe. 
 
 ![Circuit Diagram](https://github.com/mckinniburgh/QuickStartPhysComp/blob/master/images/Arduino_circuit_01_01.png)
 
-*This circuit is from [Sparkfun](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-1-blinking-an-led), a site for maker tutorials.
+*This circuit is from [Sparkfun](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-1-blinking-an-led), a site for maker tutorials.*
 
 Go ahead and make the circuit. You'll take a wire from your *ground*, or the 5V slot on the Arduino board, to the (-) power rail of the breadboard. 
 
@@ -122,7 +125,7 @@ Plug the circuit in!
 
 ####Without running any code, you should have a lit LED!
 
-**The Code**
+##**The Code**
 
 Arduino has ready-to-go code, which we'll use to get started today. You can open their examples and then edit the code as you like. 
 
@@ -151,3 +154,6 @@ Arduino has ready-to-go code, which we'll use to get started today. You can open
  
 3. In your supply kit, you'll find a small piezo buzzer. Wire the circuit using the piezo instead of the LED, using the same diagram above. 
 
+#To keep on learning...
+
+Join us at [Monday Maker Hours](https://gcdi.commons.gc.cuny.edu/monday-maker-hours/) at the [GC Maker Space](https://gcdi.commons.gc.cuny.edu/gc-maker-space/), located in the [GC Digital Scholarship Lab](https://gcdsl.commons.gc.cuny.edu/), Room 7414 at The Graduate Center, CUNY. We have Arduinos, a variety of sensors, LEDs, piezos, and other physical computing equipment for experimenting and project prototyping. All levels and perspectives welcome! [Contact us](https://docs.google.com/forms/d/e/1FAIpQLSeLwRoCkz5NPPLh0vYMOQPqyA5H3fbWn5ga2-F8M-pQvrg5IA/viewform?c=0&w=1) for more information. 
