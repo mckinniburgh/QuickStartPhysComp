@@ -16,14 +16,18 @@ by Mary Catherine Kinniburgh
    +[Key Term: Physical Computing](https://github.com/mckinniburgh/QuickStartPhysComp/blob/master/QuickStart_PhysComp.md#key-term-physical-computing)
    
 2. [Speedy Vocabulary](https://github.com/mckinniburgh/QuickStartPhysComp/blob/master/QuickStart_PhysComp.md#speedy-vocabulary)
+
 3. [Setting up Arduino](https://github.com/mckinniburgh/QuickStartPhysComp/blob/master/QuickStart_PhysComp.md#setting-up-arduino)
+
 4. [Activity: Arduino LED](https://github.com/mckinniburgh/QuickStartPhysComp/blob/master/QuickStart_PhysComp.md#activity-arduino-led)
 
 ##Why Make?
 
 ###Key term: **Maker Space**
 
-Definition: *any physical space that offers access to hands-on equipment to produce prototypes of physical objects. 
+Definition: 
+
+*any physical space that offers access to hands-on equipment to produce prototypes of physical objects.* 
 
 _What separates a maker space from a production line (although some large-scale maker spaces have this capacity) is that maker spaces are where you go to *experiment, prototype, and think* with materials_ 
 
@@ -37,7 +41,8 @@ Physical computing takes “the human body and its capabilities as the starting 
 
 + A popular point of inquiry for critical making and process-oriented prototyping
 
-!["The Interactive Device," from Getting Started with Arduino by Massimo Banzi. Borrowed from Tiffany Chan's fabulous Arduino Tutorial](QuickStartPhysComp/images/interactiveDevice.png)
+![physical computing feedback loop](https://github.com/mckinniburgh/QuickStartPhysComp/blob/master/images/Arduino.png)
+"The Interactive Device," from Getting Started with Arduino by Massimo Banzi. Borrowed from Tiffany Chan's fabulous Arduino Tutorial
 
 ##Speedy Vocabulary*
 *_or how to get started really quickly with some critical making!_
@@ -53,7 +58,7 @@ IDE:
 
 2. Open up Arduino on your computer. Here's what Arduino's logo looks like:
 
-![logo](QuickStartPhysComp/images/Arduino.png "Arduino Logo")
+![logo](https://github.com/mckinniburgh/QuickStartPhysComp/blob/master/images/Arduino.png "Arduino Logo")
 
 3. Set up board
    *Go to "Tools"
@@ -88,6 +93,7 @@ Take the wire connected to 5V and place it on the breadboard. Line this up horiz
 
 Take the wire connected to pin 8 and place it on the breadboard. Line this up horizontally with the shorter end of the LED pin. 
 
+![Anatomy of an LED](https://github.com/mckinniburgh/QuickStartPhysComp/blob/master/images/LED-image.jpg)
 **The Code**
 
 Arduino has ready-to-go code, which we'll use to get started today. You can open their examples and then edit the code as you like. 
