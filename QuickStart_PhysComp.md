@@ -28,7 +28,7 @@ by Mary Catherine Kinniburgh
 
 Definition: 
 
-*any physical space that offers access to hands-on equipment to produce prototypes of physical objects.* 
+any physical space that offers access to hands-on equipment to produce prototypes of physical objects.
 
 _What separates a maker space from a production line (although some large-scale maker spaces have this capacity) is that maker spaces are where you go to *experiment, prototype, and think* with materials_ 
 
@@ -75,19 +75,19 @@ Physical computing takes “the human body and its capabilities as the starting 
 
 3. Set up board
 
-+ Go to "Tools"
+Go to "Tools"
 
-+ Select "Board: Arduino/Genuino Uno"
+Select "Board: Arduino/Genuino Uno"
   
       (This is the type of Arduino we're using today)
 
 4. Set up port
 
-+ Go to "Tools"
+Go to "Tools"
 
-+ Select "Port"
+Select "Port"
 
-+ Choose "/dev/cu.usbmodem1411 (Arduino/Genuino Uno)"
+Choose "/dev/cu.usbmodem1411 (Arduino/Genuino Uno)"
 	
 
 Now you're ready to make circuits! 
