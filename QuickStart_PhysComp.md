@@ -8,6 +8,15 @@ by Mary Catherine Kinniburgh
 
 *A big shout-out to Tiffany Chan for her inspiring and helpful [Arduino Tutorial](https://github.com/uvicmakerlab/dhsi2016/blob/master/ArduinoNotes.md) for [Digital Humanities Summer Institute 2016](http://www.dhsi.org/index.php), in Jentery Sayers' Physical Computing and Desktop Fabrication Class. 
 
+##Resources at a glance:
+
++[Monday Maker Hours](https://gcdi.commons.gc.cuny.edu/monday-maker-hours/)
+
++[Introduction to Physical Computing with Arduino Workshop
+November 9th, 6:30-8:30pm](https://gcdi.commons.gc.cuny.edu/workshops/)
+
++[GC Maker Space](https://gcdi.commons.gc.cuny.edu/gc-maker-space/))
+
 
 #Overview
 1. [Why Make?](https://github.com/mckinniburgh/QuickStartPhysComp/blob/master/QuickStart_PhysComp.md#why-make)
