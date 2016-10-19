@@ -12,9 +12,10 @@ by Mary Catherine Kinniburgh
 1. [Why Make?](#whymake)
 
    +[Key Term: Maker Space](#keyterm)
-   +[Key Term: Physical Computing](###Key term: **Physical Computing**)
-2. [Speedy Vocabulary](##Speedy Vocabulary)
-3. [Setting up Arduino](##Setting up Arduino)
+   
+   +[Key Term: Physical Computing](#keyterm)
+2. [Speedy Vocabulary](#speedyvocabulary)
+3. [Setting up Arduino](#settinguparduino)
 4. [Activity: Arduino LED](##Activity)
 
 ##Why Make?
