@@ -1,16 +1,30 @@
 #Introduction to Physical Computing
 
-A super-speedy introduction to physical computing for #dhpraxis16
+*A super-speedy introduction to maker basics for #dhpraxis16*
 October 19th, 2016
 by Mary Catherine Kinniburgh
 
-*huge thanks to Tiffany Chan for her inspiring and helpful [Arduino Tutorial](https://github.com/uvicmakerlab/dhsi2016/blob/master/ArduinoNotes.md) for Digital Humanities Summer Institute 2016, in Jentery Sayers' Physical Computing Class. 
+*A big shout-out to Tiffany Chan for her inspiring and helpful [Arduino Tutorial](https://github.com/uvicmakerlab/dhsi2016/blob/master/ArduinoNotes.md) for [Digital Humanities Summer Institute 2016](http://www.dhsi.org/index.php), in Jentery Sayers' Physical Computing and Desktop Fabrication Class. 
 
 Overview:
 
-What is Physical Computing?
+##Why Make?
+
+Key term: **maker space*
+Definition: *any physical space that offers access to hands-on equipment to produce prototypes of physical objects. 
+
+_What separates a maker space from a production line (although some large-scale maker spaces have this capacity) is that maker spaces are where you go to *experiment, prototype, and think* with materials_ 
+
+####The process, rather than the product, defines the space.
+
+##Physical Computing
+
+!["The Interactive Device," from Getting Started with Arduino by Massimo Banzi. Borrowed from Tiffany Chan's fabulous Arduino Tutorial]()
+##Speedy Vocabulary
 
 Arduino: 
+IDE:
+
 
 
 ##Setting up Arduino
