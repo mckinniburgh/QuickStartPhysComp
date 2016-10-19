@@ -1,26 +1,43 @@
-#Introduction to Physical Computing
+#A Super-Speedy Intro to Maker Basics with Arduino
 
-*A super-speedy introduction to maker basics for #dhpraxis16*
+*for #dhpraxis16*
+
 October 19th, 2016
 by Mary Catherine Kinniburgh
 
 *A big shout-out to Tiffany Chan for her inspiring and helpful [Arduino Tutorial](https://github.com/uvicmakerlab/dhsi2016/blob/master/ArduinoNotes.md) for [Digital Humanities Summer Institute 2016](http://www.dhsi.org/index.php), in Jentery Sayers' Physical Computing and Desktop Fabrication Class. 
 
-Overview:
+
+#Overview
+1. [Why Make?](##Why Make)
+   +[Key Term: Maker Space](###Key term: **Maker Space**)
+   +[Key Term: Physical Computing](###Key term: **Physical Computing**)
+2. [Speedy Vocabulary](##Speedy Vocabulary)
+3. [Setting up Arduino](##Setting up Arduino)
+4. [Activity: Arduino LED](##Activity)
 
 ##Why Make?
 
-Key term: **maker space*
+###Key term: **Maker Space**
+
 Definition: *any physical space that offers access to hands-on equipment to produce prototypes of physical objects. 
 
 _What separates a maker space from a production line (although some large-scale maker spaces have this capacity) is that maker spaces are where you go to *experiment, prototype, and think* with materials_ 
 
 ####The process, rather than the product, defines the space.
 
-##Physical Computing
+###Key term: **Physical Computing**
 
-!["The Interactive Device," from Getting Started with Arduino by Massimo Banzi. Borrowed from Tiffany Chan's fabulous Arduino Tutorial]()
-##Speedy Vocabulary
+Definition:
+
+Physical computing takes “the human body and its capabilities as the starting point, and attempt[s] to design interfaces, both software and hardware, that can sense and respond to what humans can physically do” (Tom Igoe, “What is Physical Computing”).
+
++ A popular point of inquiry for critical making and process-oriented prototyping
+
+!["The Interactive Device," from Getting Started with Arduino by Massimo Banzi. Borrowed from Tiffany Chan's fabulous Arduino Tutorial](QuickStartPhysComp/images/interactiveDevice.png)
+
+##Speedy Vocabulary*
+*_or how to get started really quickly with some critical making!_
 
 Arduino: 
 IDE:
@@ -33,7 +50,7 @@ IDE:
 
 2. Open up Arduino on your computer. Here's what Arduino's logo looks like:
 
-![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png "Arduino Logo")
+![logo](QuickStartPhysComp/images/Arduino.png "Arduino Logo")
 
 3. Set up board
    *Go to "Tools"
@@ -87,9 +104,11 @@ Arduino has ready-to-go code, which we'll use to get started today. You can open
 
 ####Bonus points: change the speed of the LED blinking by adjusting the delay value.     
 
+
+
 ##Bonus: Arduino Buzzer
 
 1. Go to "File" --> "Examples" --> "02.Digital" --> "toneMelody"
 
-
+2. Open the "toneMelody" sketch and check out the code. 
  
