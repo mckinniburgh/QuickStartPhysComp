@@ -100,19 +100,27 @@ Now you're ready to make circuits!
 + 2 wires
 + 1 LED bulb
 + Breadboard
++ Resistor
 
 **The Circuit**
 
 Don't forget to unplug your Arduino as you wire your circuit! This keeps your computer safe. 
 
-Take 1 wire, and place it in 5V. This is your *ground*.
-Take 1 wire, and place it in pin 8. 
+![Circuit Diagram](https://github.com/mckinniburgh/QuickStartPhysComp/blob/master/images/Arduino_circuit_01_01.png)
 
-Take the *ground* wire to the *cathode* (short side) of the LED on the breadboard. 
+*This circuit is from [Sparkfun](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-1-blinking-an-led), a site for maker tutorials.
 
-On the breadboard, link the *anode* (long side) of the LED to pin 8 with the other wire. Take the wire connected to pin 8 and place it on the breadboard.
+Go ahead and make the circuit. You'll take a wire from your *ground*, or the 5V slot on the Arduino board, to the (-) power rail of the breadboard. 
+
+Then, place a resistor with one "leg" in the (-) power rail of the breadboard, and the other horizontally in line with the *anode* (long side) of the LED. Make sure the LED has its anode and cathode in different terminal strips (vertically aligned on breadboard)!
 
 ![Anatomy of an LED](https://github.com/mckinniburgh/QuickStartPhysComp/blob/master/images/LED-image.jpg "http://sciencewithkids.com/science-facts/facts-about-LEDs.html")
+
+Next, connect another wire to the *cathode* (short side) of the LED, and place this in pin 8 on the Arduino board.
+
+Plug the circuit in!
+
+####Without running any code, you should have a lit LED!
 
 **The Code**
 
@@ -122,23 +130,24 @@ Arduino has ready-to-go code, which we'll use to get started today. You can open
 
 2. Open the "Blink Sketch," and check out the code. 
 
-3. In "void setup( ), we're going to initialize pin 8 as our output. Change "LED_BUILTIN" to "8".
+3. In "void setup( ), we're going to initialize pin 8 as our output. Change "LED_BUILTIN" or "13," depending on your version of Arduino's IDE, to "8".
 
 4. In "void loop( )," change "LED_BUILTIN" to "8" as well. 
 
 5. **Verify** your sketch with the check-mark in the upper-left hand corner of the window
-    Troubleshoot: have you selected your proper board and port? Is the Arduino plugged in? If, not check your circuits again. 
+    Troubleshoot: have you selected your proper board and port? Is the Arduino plugged in? Have you double-checked your circuits?
     
 6. **Upload** your sketch and watch the LED blink!
 
 ####Bonus points: change the speed of the LED blinking by adjusting the delay value.     
 
+####Bonus points: experiment with rewiring the circuit *without* the resistor and notice what happens. 
 
-
-##Bonus: Arduino Buzzer
+##Double Bonus: Arduino Buzzer
 
 1. Go to "File" --> "Examples" --> "02.Digital" --> "toneMelody"
 
 2. Open the "toneMelody" sketch and check out the code. 
  
-3. In your supply kit, you'll find a small piezo
+3. In your supply kit, you'll find a small piezo buzzer. Wire the circuit using the piezo instead of the LED, using the same diagram above. 
+
