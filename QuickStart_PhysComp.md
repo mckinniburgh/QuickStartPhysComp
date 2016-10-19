@@ -9,8 +9,9 @@ by Mary Catherine Kinniburgh
 
 
 #Overview
-1. [Why Make?](##Why Make)
-   +[Key Term: Maker Space](###Key term: **Maker Space**)
+1. [Why Make?](#whymake)
+
+   +[Key Term: Maker Space](#keyterm)
    +[Key Term: Physical Computing](###Key term: **Physical Computing**)
 2. [Speedy Vocabulary](##Speedy Vocabulary)
 3. [Setting up Arduino](##Setting up Arduino)
