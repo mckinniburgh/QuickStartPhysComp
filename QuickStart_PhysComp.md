@@ -75,19 +75,19 @@ Physical computing takes “the human body and its capabilities as the starting 
 
 3. Set up board
 
-Go to "Tools"
+Go to `Tools`
 
-Select "Board: Arduino/Genuino Uno"
-  
-      (This is the type of Arduino we're using today)
+Select `Board: Arduino/Genuino Uno.`
+
+This is the type of Arduino we're using today
 
 4. Set up port
 
-Go to "Tools"
+Go to `Tools`
 
-Select "Port"
+Select `Port`
 
-Choose "/dev/cu.usbmodem1411 (Arduino/Genuino Uno)"
+Choose `/dev/cu.usbmodem1411 (Arduino/Genuino Uno)`
 	
 
 Now you're ready to make circuits! 
@@ -126,13 +126,13 @@ Plug the circuit in!
 
 Arduino has ready-to-go code, which we'll use to get started today. You can open their examples and then edit the code as you like. 
 
-1. Go to "File" --> "Examples" --> "01.Basics" --> "Blink"
+1. Go to `File --> Examples --> 01.Basics --> Blink`
 
-2. Open the "Blink Sketch," and check out the code. 
+2. Open the `Blink Sketch` and check out the code. 
 
-3. In "void setup( ), we're going to initialize pin 8 as our output. Change "LED_BUILTIN" or "13," depending on your version of Arduino's IDE, to "8".
+3. In `void setup( )` we're going to initialize `pin 8` as our output. Change `LED_BUILTIN" or 13,` depending on your version of Arduino's IDE, to `8`.
 
-4. In "void loop( )," change "LED_BUILTIN" to "8" as well. 
+4. In `void loop( )` change `LED_BUILTIN` to `8` as well. 
 
 5. **Verify** your sketch with the check-mark in the upper-left hand corner of the window
     Troubleshoot: have you selected your proper board and port? Is the Arduino plugged in? Have you double-checked your circuits?
@@ -145,9 +145,9 @@ Arduino has ready-to-go code, which we'll use to get started today. You can open
 
 ##Double Bonus: Arduino Buzzer
 
-1. Go to "File" --> "Examples" --> "02.Digital" --> "toneMelody"
+1. Go to `File --> Examples --> 02.Digital --> toneMelody`
 
-2. Open the "toneMelody" sketch and check out the code. 
+2. Open the `toneMelody` sketch and check out the code. 
  
 3. In your supply kit, you'll find a small piezo buzzer. Wire the circuit using the piezo instead of the LED, using the same diagram above. 
 
