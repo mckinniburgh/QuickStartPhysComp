@@ -4,7 +4,7 @@ A super-speedy introduction to physical computing for #dhpraxis16
 October 19th, 2016
 by Mary Catherine Kinniburgh
 
-*huge thanks to [Tiffany Chan for her inspiring and helpful [Arduino Tutorial](https://github.com/uvicmakerlab/dhsi2016/blob/master/ArduinoNotes.md) for Digital Humanities Summer Institute 2016, in Jentery Sayers 
+*huge thanks to Tiffany Chan for her inspiring and helpful [Arduino Tutorial](https://github.com/uvicmakerlab/dhsi2016/blob/master/ArduinoNotes.md) for Digital Humanities Summer Institute 2016, in Jentery Sayers' Physical Computing Class. 
 
 Overview:
 
@@ -19,7 +19,7 @@ Arduino:
 
 2. Open up Arduino on your computer. Here's what Arduino's logo looks like:
 
-![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png)
+![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png "Arduino Logo")
 
 3. Set up board
    *Go to "Tools"
@@ -32,9 +32,9 @@ Arduino:
 	*Select "Port"
 	*Choose "/dev/cu.usbmodem1411 (Arduino/Genuino Uno)"
 	
-Now you're ready to import a sketch. 
+Now you're ready to make circuits! 
 
-##Arduino LED
+#Activity: Arduino LED
 
 **Supplies**
 
